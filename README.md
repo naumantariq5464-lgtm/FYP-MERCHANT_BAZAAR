@@ -9,7 +9,7 @@ Merchant Bazaar empowers entrepreneurs and brands to create, customize, and publ
 
 | Layer | Technology |
 |---|---|
-| **Backend Framework** | [FastAPI](https://fastapi.tiangolo.com/) (Python 3.12 / 3.14) |
+| **Backend Framework** | [FastAPI](https://fastapi.tiangolo.com/) (Python  3.14) |
 | **Database & ORM** | [PostgreSQL](https://www.postgresql.org/) (Neon Serverless) + [SQLAlchemy 2.0](https://www.sqlalchemy.org/) |
 | **Database Migrations** | [Alembic](https://alembic.sqlalchemy.org/) |
 | **Authentication** | JWT (JSON Web Tokens) with `python-jose` & `passlib[bcrypt]` |
